@@ -6,6 +6,8 @@ My name is Kimya Shirazi and I am currently a senior majoring in Data Science at
 
 ## Section II: Picture
 
+![Image 2-4-22 at 2 52 PM](https://user-images.githubusercontent.com/78177144/152691545-7700a96f-9cc3-475f-bb3f-883b947b2c4f.jpg)
+
 
 ## Section III: Math Equation & Markdown
 ## **Math Equations**
