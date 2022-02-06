@@ -9,10 +9,16 @@ My name is Kimya Shirazi and I am currently a senior majoring in Data Science at
 
 ## Section III: Math Equation & Markdown
 ![Math](https://render.githubusercontent.com/render/math?math=%5Csqrt%7B%5Csin(x%2B1)%2B3%7D)
+```markdown
+Above is an example of inserting a math equation in Github pages!
+```
 
 ## Section IV: Python Code & Markdown
 ```Python
 import numpy as np
 
 x = np.sqrt(2)
+```
+```markdown
+Importing packages is very helpful while coding! In the example above, we imported numpy as np. Markdown can be used to add explanations, such as this one. 
 ```
